@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VineshThakkarCoen
-- 👀 I’m studying in Computer Engineering
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate with Web developer
+- Exploring Possibilities in AI Engineering.
+- Generative AI , Agentic AI , NLP
 - 📫 How to reach me vinesh.thakkar.coen@gmail.com
 
 <!---
